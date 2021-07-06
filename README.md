@@ -1,2 +1,2 @@
-# HowManyCanYouDrinkTodayPage
+# HowMuchCanYouDrinkTodayPage
 Page created for fun! 
