@@ -1,0 +1,44 @@
+﻿/*Styl ciała strony*/
+body
+{
+    background-color:gold;
+}
+/*Styl headera strony*/
+header {
+    width: 100%;
+    height: 100px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+/*Styl sekcji strony*/
+section {
+    width: 100%;
+    height:100%;
+}
+/*Styl buttona z kubkiem piwa*/
+#button-mug-of-beer {
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Styl klasy z kubkiem piwa*/
+.mug-of-beer {
+    height: 100%;
+}
+/*Styl paragrafu*/
+p {
+    width: 100%;
+    height: 100%;
+}
+/*Styl klasy buttonow */
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px 60px;
+    text-align: center;
+    font-size: 24px;
+}

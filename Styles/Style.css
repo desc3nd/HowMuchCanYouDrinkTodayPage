@@ -1,0 +1,95 @@
+﻿/* Styl całego ciała strony */
+body {
+    background-color: lightgrey;
+}
+
+/* Styl nagłówka strony */
+header {
+    width: 100%;
+    height: 100px;
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
+
+/* Styl sekcji na stronie */
+section {
+    width: 100%;
+    height: auto;
+    background-color: dimgrey;
+    float: left;
+}
+/* Styl akapitu w sekcji */
+section p {
+    text-align: center;
+}
+
+/* Styl klasy zajmującej prawą stronę */
+.whisky {
+    width: 33%;
+    float: right;
+    height:auto;
+}
+
+/* Styl klasy zajmującej środkową stronę */
+.vodka {
+    width: 33%;
+    float: left;
+}
+/* Styl klasy zajmującej lewą stronę*/
+.beer{
+    width: 33%;
+    float: left;
+}
+/* Styl opisu strony */
+#description {
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
+}
+/*Styl obrazka-przycisku vodka*/
+#button-vodka {
+    cursor: pointer;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+/*Styl obrazka-przycisku beer*/
+#button-beer {
+    cursor: pointer;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Styl obrazka-przycisku whisky*/
+#button-whisky {
+    cursor: pointer;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+/*Styl napisu whisky*/
+#whisky{
+    text-align:center;
+    font:menu;
+    font-size:50px;
+    color:orangered;
+}
+/*Styl napisu wódka*/
+#vodka {
+    text-align: center;
+    font: menu;
+    font-size: 50px;
+    color: white;
+
+}
+/*Styl napisu piwo */
+#beer {
+    text-align: center;
+    font: menu;
+    font-size: 50px;
+    color:darkgoldenrod
+
+}

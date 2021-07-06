@@ -1,0 +1,43 @@
+﻿/*Styl ciała strony*/
+body {
+    background-color: coral;
+}
+/*Styl headera strony z whisky*/
+header {
+    width: 100%;
+    height: 100px;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+/*Styl obrazu buttona ze szklanka whisky*/
+#button-glass-of-whisky {
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*Styl klasy ze szklanka whisky*/
+.glass-of-whisky {
+    height: 100%;
+}
+/*Styl sekcji strony*/
+section {
+    width: 100%;
+    height: 100%;
+}
+/*Styl paragrafu*/
+p {
+    width: 100%;
+    height: 100%;
+}
+/*Styl klasy buttonow */
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px 60px;
+    text-align: center;
+    font-size: 24px;
+}

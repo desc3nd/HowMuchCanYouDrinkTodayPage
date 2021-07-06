@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Dane o stronie -->
+<head>
+    <meta charset="utf-8" />
+    <title>Beer Calculator</title>
+    <link href="styles/stylePageBeer.css" rel="stylesheet" type="text/css" />
+</head>
+
+<!-- Wygląd strony -->
+<body>
+    <!-- Nagłówek na naszej stronie -->
+    <header id="head">
+             Kliknij start a następnie klikaj obrazek by wlać w siebie więcej alkoholu.
+    </header>
+
+    <!-- Sekcja z orazkami napojów -->
+    <section>
+        <!-- Kontener z piwem -->
+        <div class="mug-of-beer">
+            <p>
+                <img id="button-mug-of-beer" src="Images/mug-of-beer.png" onclick="ChangePositionOfDrink('button-mug-of-beer');" />
+            </p>
+            <!-- przycisk start -->
+            <button id="start" type="button" class="button" onclick="StartGame('button-mug-of-beer');">
+                Start
+            </button>
+            <!-- przycisk cofnij -->
+            <button id="back" type="button" class="button" onclick="location.href='HTMLPage1.html'">Powrót do menu</button>
+        </div>
+    </section>
+    <!--Podłączenie skryptu do strony-->
+    <script src="Scripts/JavaScript.js"></script>
+</body>
+</html>

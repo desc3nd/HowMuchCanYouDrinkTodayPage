@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Dane o stronie -->
+<head>
+    <meta charset="utf-8" />
+    <title>Vodka Calculator</title>
+    <link href="styles/StylePageVodka.css" rel="stylesheet" type="text/css" />
+</head>
+
+<!-- Wygląd strony -->
+<body>
+    <!-- Nagłówek na naszej stronie -->
+    <header id="head">
+        Kliknij start a następnie klikaj obrazek by wlać w siebie więcej alkoholu.
+    </header>
+    <!-- Sekcja z orazkami napojów -->
+    <section>
+        <!-- Kontener z wódka -->
+        <div class="shot-of-vodka">
+            <p>
+                <img id="button-shot-of-vodka" src="Images/shot-of-vodka.png" onclick="ChangePositionOfDrink('button-shot-of-vodka');" />
+            </p>
+            <button id="start" type="button" class="button" onclick="StartGame('button-shot-of-vodka');">
+                Start
+            </button>
+            <!-- przycisk cofnij -->
+            <button id="back" type="button" class="button" onclick="location.href='HTMLPage1.html'">Powrót do menu</button>
+        </div>
+
+    </section>
+    <!--Podłączenie skryptu do strony-->
+    <script src="Scripts/JavaScript.js"></script>
+</body>
+</html>
