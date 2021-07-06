@@ -1,4 +1,5 @@
 # HowMuchCanYouDrinkTodayPage
+
 Strona na której sprawdzisz ile dziś jesteś w stanie wypić! Na samym początku wybierasz alkohol który chcesz dziś pic. Z racji tego, że imprezy są dla ostrych zawodników, proponujemy tylko ostre alkohole typu wódka whisky i piwo. Gdy już wybierzesz co chcesz wypić przejdziesz na strone w któej musisz klikać odpowiednio obrazek pojawiający się w różnych miejscach strony - im wiecej klikniesz tym więcej wypijesz! <strong>UWAGA! Nie klikanie może być dla Ciebie gorsze niż klikanie gdyż komputer może naliczyć karę w postaci dodatkowych kolejek z alkoholem!.</strong> Pamiętaj też by klikać szybko bo gdy nie klikniesz w odpowiednim czasie, obrazek przeskoczy na inne miejsce.
 <h2> Screenshoty ze strony </h2>
 
@@ -15,3 +16,4 @@ Strona na której sprawdzisz ile dziś jesteś w stanie wypić! Na samym począt
   <p></p>
   *Strona została wykonana na potrzeby zadania domowego dodatkowego kursu CPC2021 prowadzonego przez koło "Kredek" działające przy Politechnice Wrocławskiej.
 Wszelka grafika użyta do stworzenia aplikacji została użyta jedynie w celach edukacyjnych*
+<h1>WAŻNE! Strona stworzona w celach edukacyjno-humorystycznych, <strong> nie ma na celu prpopagowania alkoholu wsród dzieci młodzierzy czy dorosłych.</strong><h1>
